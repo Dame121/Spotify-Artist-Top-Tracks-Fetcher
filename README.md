@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your project, along with a suggestion for the repository name.
-
----
-
 # Spotify Artist Top Tracks Fetcher
 
 This project uses the Spotify API to search for an artist by name and retrieve their top 10 tracks. It demonstrates how to authenticate with Spotify, search for artists, and fetch track details using Spotify's public API.
